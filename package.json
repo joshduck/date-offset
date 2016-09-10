@@ -1,0 +1,15 @@
+{
+  "name": "date-offset",
+  "version": "0.0.0",
+  "description": "Convert Gregorian calendar day to day offset and back again.",
+  "main": "src/DateOffset.js",
+  "scripts": {
+    "test": "/usr/local/bin/node node_modules/jest-cli/bin/jest.js"
+  },
+  "author": "Josh Duck <dev@joshduck.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "~15.1.1",
+    "babel-jest": "~15.0.0"
+  }
+}
