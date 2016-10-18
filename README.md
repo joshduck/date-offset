@@ -1,4 +1,6 @@
 # SimpleDay
 
-A simple library for working with calendar days (YYYY-MM-DD) as plain old
-JavaScript objects.
+A simple library for converting Gregorian dates to an integer offset.
+
+Ported from Howard Hinnant's date algorithms:
+http://howardhinnant.github.io/date_algorithms.html
