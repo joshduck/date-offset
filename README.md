@@ -1,4 +1,4 @@
-# SimpleDay
+# DateOffset
 
 A simple library for converting Gregorian dates to an integer offset.
 

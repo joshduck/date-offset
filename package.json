@@ -1,7 +1,7 @@
 {
   "name": "date-offset",
   "version": "0.0.0",
-  "description": "Convert Gregorian calendar day to day offset and back again.",
+  "description": "Convert Gregorian calendar date to integer offset and back again.",
   "main": "src/DateOffset.js",
   "scripts": {
     "test": "/usr/local/bin/node node_modules/jest-cli/bin/jest.js"
